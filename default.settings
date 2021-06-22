@@ -1,0 +1,3 @@
+ALLOWED_HOSTS = ['*']
+DEBUG = False
+DEFAULT_FROM_EMAIL = 'sergio.canales.e@gmail.com'
